@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\yisha\\Downloads\\Libs\\jars\\jinput.jar",
+        "c:\\Users\\yisha\\Downloads\\Libs\\jars\\jogg-0.0.7.jar",
+        "c:\\Users\\yisha\\Downloads\\Libs\\jars\\jorbis-0.0.15.jar",
+        "c:\\Users\\yisha\\Downloads\\Libs\\jars\\lwjgl.jar",
+        "c:\\Users\\yisha\\Downloads\\Libs\\jars\\slick.jar",
+        "Libs/jars/jinput.jar",
+        "Libs/jars/jogg-0.0.7.jar",
+        "Libs/jars/jorbis-0.0.15.jar",
+        "Libs/jars/lwjgl.jar",
+        "Libs/jars/slick.jar"
+    ]
+}
