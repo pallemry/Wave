@@ -111,7 +111,7 @@ public class KeyInputForSettings extends KeyAdapter {
 		JOptionPane.showMessageDialog(Window.frame,
 				String.format("%s is an Invalid character => (Used for %s)"
 						+ "\nPlease choose a valid charcter\nInvalid Charcters are : (F, R, P)", letter, usage),
-				"Invalid Input", JOptionPane.YES_NO_CANCEL_OPTION);
+				"Invalid Input", JOptionPane.OK_OPTION);
 		return true;
 	}
 
